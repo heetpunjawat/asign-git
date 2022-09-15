@@ -1,2 +1,2 @@
-# asign-git
+# assign-git
 Heet Punjawat
